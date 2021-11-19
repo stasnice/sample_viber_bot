@@ -1,0 +1,8 @@
+{
+  "token": "4e4ddc4071a7e174-eadc3ca149018596-f21b7e6ded3109b4",
+  "uri": "my_testbot_v1",
+  "name": "Test Bot",
+  "expose_domain": "https://my_testbot_v1",
+  "expose_uri_path": "/viber/webhook",
+  "port": 8080
+}
